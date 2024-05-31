@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI Project
 - 📫 How to reach me: theressa.sunnita@gmail.com
 - 😄 Pronouns: She/her/Ms.
-- ⚡ Fun fact: Nouveau Player
+- ⚡ Fun fact: an Nouveau Player w/o IT background believe that Management and Communication thing can use data and python. LET'S PROVE IT!
 
 <!---
 theres-a-sun/theres-a-sun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
