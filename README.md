@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theres-a-sun
+- 👋 Hi, I’m Sunnita Theressa/ @theres-a-sun
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on AI Project
